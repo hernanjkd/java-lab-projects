@@ -1,0 +1,22 @@
+               Revenue Miles   Passenger Miles
+     Airline    (in 1000's)      (in 1000's)
+     =======   =============   ===============
+    American           26851           2210871
+ Continental            9316            622534
+       Delta           21515           1862276
+   Northwest           20803           1924288
+       USAir            9855           1542800
+  TransWorld           16228           1188124
+      United           35175           3673152
+
+
+                  Share of        Share of
+     Airline   Revenue Miles   Passenger Miles
+     =======   =============   ===============
+    American          19.21%            16.98%
+ Continental           6.67%             4.78%
+       Delta          15.40%            14.30%
+   Northwest          14.89%            14.77%
+       USAir           7.05%            11.85%
+  TransWorld          11.61%             9.12%
+      United          25.17%            28.20%
